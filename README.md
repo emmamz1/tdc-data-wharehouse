@@ -44,7 +44,7 @@ El modelo está compuesto por **2 tablas de hechos** y **6 dimensiones**:
 
 ## ETL / SSIS
 
-![Control Flow SSIS](docs/controloflow_ssis.png)
+![Control Flow SSIS](docs/controlflow_ssis.png)
 
 La carga de geografía ilustra el patrón **Multicast** utilizado para poblar dos dimensiones independientes en un único paso de lectura:
 
